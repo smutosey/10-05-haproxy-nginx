@@ -47,7 +47,8 @@ Weighted Round Robin — тот же round robin, но имеет дополни
 
 ### Ответ
 
-ВМ для домашнего задания и вся конфигурация заданий 3-6 выполнена в Vagrantfile в репозитории
+ВМ для домашнего задания поднята с помощью [Vagrantfile](https://github.com/smutosey/10-05-haproxy-nginx/blob/main/Vagrantfile), все настройки для заданий 3-6 выполнены в provision [config.sh](https://github.com/smutosey/10-05-haproxy-nginx/blob/main/config.sh)
+
 Статус сервиса:
 ![img](https://github.com/smutosey/10-05-haproxy-nginx/blob/main/img/03-1.png)
 
